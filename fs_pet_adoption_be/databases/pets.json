@@ -1,0 +1,112 @@
+[
+    {
+        "id": 0,
+        "breed": "Golden Retriever",
+        "name": "Rexy",
+        "height": 30,
+        "weight": 15,
+        "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg",
+        "adoptionStatus": "Available",
+        "ownerId": ""
+    },
+    {
+        "id": 1,
+        "breed": "Malinois",
+        "name": "Sol",
+        "height": 45,
+        "weight": 27,
+        "imageUrl": "https://dogsbestlife.com/wp-content/uploads/2019/11/Belgian-malinois-scaled.jpeg",
+        "adoptionStatus": "Available",
+        "ownerId": ""
+    },
+    {
+        "id": 2,
+        "breed": "Bulldog",
+        "name": "Butch",
+        "height": 25,
+        "weight": 10,
+        "imageUrl": "https://iheartdogs.com/wp-content/uploads/2015/01/4577137586_5f4cf7fbd3_z-1.jpg",
+        "adoptionStatus": "Available",
+        "ownerId": ""
+    },
+    {
+        "id": 3,
+        "breed": "Corgy",
+        "name": "Ein",
+        "height": 30,
+        "weight": 17,
+        "imageUrl": "https://www.thesprucepets.com/thmb/USVNj4JH5Ly3fWuPjcIljCRxiLg=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/breed_profile_corgi_1117986_recirc_917-ac4ab4ec3cb6469397c6c023e7c28b28.jpg",
+        "adoptionStatus": "Available",
+        "ownerId": ""
+    },
+    {
+        "id": 4,
+        "breed": "Pug",
+        "name": "Jake",
+        "height": 20,
+        "weight": 10,
+        "imageUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/17638/production/_124800859_gettyimages-817514614.jpg",
+        "adoptionStatus": "Available",
+        "ownerId": ""
+    },
+    {
+        "id": 5,
+        "breed": "Sakhalin Husky",
+        "name": "Johnny",
+        "height": 50,
+        "weight": 30,
+        "imageUrl": "https://www.purina.co.uk/sites/default/files/2020-11/Working%20Dogs%20Everything%20You%20Need%20to%20KnowTEASER.jpeg",
+        "adoptionStatus": "Available",
+        "ownerId": ""
+    },
+    {
+        "id": 6,
+        "breed": "Labrador Retriever",
+        "name": "Nunu",
+        "height": 40,
+        "weight": 25,
+        "imageUrl": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&poi=face&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F34%2F2022%2F03%2F22%2Fhappy-labrador-retriever-getty-0322-2000.jpg",
+        "adoptionStatus": "Available",
+        "ownerId": ""
+    },
+    {
+        "id": 7,
+        "breed": "Pomeranian",
+        "name": "Pitz",
+        "height": 10,
+        "weight": 5,
+        "imageUrl": "https://www.thesprucepets.com/thmb/MJ--9BJULRDvodDrmrqCxzYYIy4=/3504x2336/filters:fill(auto,1)/Pomeranian-GettyImages-1014940472-a6ba0030958a4bbba0eee3e982ee9bc6.jpg",
+        "adoptionStatus": "Available",
+        "ownerId": ""
+    },
+    {
+        "id": 8,
+        "breed": "Poodle",
+        "name": "Fluffy",
+        "height": 25,
+        "weight": 15,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Pudel_Grossschwarz.jpg",
+        "adoptionStatus": "Available",
+        "ownerId": ""
+    },
+    {
+        "id": 9,
+        "breed": "Chihuahua",
+        "name": "Marbles",
+        "height": 15,
+        "weight": 8,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Chihuahue%C3%B1o_paseante.JPG",
+        "adoptionStatus": "Available",
+        "ownerId": ""
+    },
+    {
+        "id": 10,
+        "breed": "Doberman Pinscher",
+        "name": "Dobbie",
+        "height": 40,
+        "weight": 38,
+        "imageUrl": "https://dogleader.co.il/wp-content/uploads/2022/01/14030373819_bd4aebf026_c-min.jpg",
+        "adoptionStatus": "Available",
+        "ownerId": ""
+    }
+]

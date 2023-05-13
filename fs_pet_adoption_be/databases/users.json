@@ -1,0 +1,9 @@
+[
+    {
+        "id": "admin",
+        "password": "admin",
+        "first_name": "Admin",
+        "last_name": "Admin",
+        "isAdmin": "true"
+    }
+]
