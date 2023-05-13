@@ -26,3 +26,5 @@ o	/checkout
 o	/members
 •	Admin
 o	/admin
+
+![pets](https://github.com/Ohr-S/pet-adoption-website/assets/73228323/7457535e-f058-4a9f-9a97-6f9eaeaf678e)
